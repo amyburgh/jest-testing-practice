@@ -1,6 +1,6 @@
 # Jest Testing Practice
 
-Testing some simple functions with [Jest](https://jestjs.io/), which is a JavaScript testing framework with a focus on simplicity.
+Testing simple functions with [Jest](https://jestjs.io/), which is a JavaScript testing framework with a focus on simplicity.
 
 ## Usage
 
